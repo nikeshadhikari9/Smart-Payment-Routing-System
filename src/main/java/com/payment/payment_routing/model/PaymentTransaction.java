@@ -45,7 +45,7 @@ public class PaymentTransaction {
         this.requestId=requestId;
     }
 
-    public void setStatus(String success) {
+    public void setStatus(String status) {
         this.status=status;
     }
 
